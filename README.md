@@ -22,7 +22,7 @@ Analista SRE com experiência em ambientes críticos, atuando em confiabilidade,
 <br>
 
 🌐 Automação IaC com **Terraform + Ansible**  
-🐳 Containers & Kubernetes  
+🐳 Containers Docker & Kubernetes  
 ⚙️ Pipelines CI/CD  
 📊 Observabilidade com Grafana, Zabbix & Prometheus  
 💥 Resposta a incidentes & produção resiliente
